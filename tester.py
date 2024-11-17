@@ -6,4 +6,4 @@ print('c=' , c)
 
 r = 10
 area = utils.circle(r)
-print('r=' , r)
+print('area=' , area)
